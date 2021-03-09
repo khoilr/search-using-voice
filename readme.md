@@ -1,6 +1,6 @@
 # Search using voice
 
-Run in terminal:
+Install dependencies by run these below in terminal:
 
 ```bash
 pip install -r requirements.txt
